@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">mobile_task_1_2_Clicker</string>
+    <string name="btn_increase">Increase</string>
+    <string name="btn_decrease">Decrease</string>
+    <string name="btn_reset">Reset</string>
 </resources>
